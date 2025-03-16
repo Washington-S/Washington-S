@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Washington-S
 - 🌱 I’m currently learning Python
-- 📫 How to reach me - w.soares.dev@gmail.com
+- 📫 How to reach me - wsoares.silva.20@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <!---
